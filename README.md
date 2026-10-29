@@ -195,3 +195,6 @@ Azure and AWS have optional CLI walkthroughs (not deployed or cloud-tested). Use
 
 The student ZIP includes source and `.env.example`, not the instructor's `.env` or credentials.
 Students can extract it and skip the guide's Git clone step.
+
+
+By Usama Mirkar
